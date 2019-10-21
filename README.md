@@ -8,6 +8,7 @@ By programming your solutions to math problems, you
 Current topics:
 - Primes, Highest Common Factor and Lowest Common Multiple
 - Number Patterns
+- Algebra
 
 Please contribute! Submit pull requests for
 - problems without solutions
